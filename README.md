@@ -1,12 +1,17 @@
-## Requirements
+# Requirements
 
 - **Python 3.8 or higher**  
-  pip install tweepy
+```bash
+pip install tweepy
+```
 
-  # to post tweet
-
+  ## to post tweet
+  ```bash
   python only_post.py
+```
 
-  # to post tweet
-
+  ## to post media
+  ```bash
   python media.py
+```
+
